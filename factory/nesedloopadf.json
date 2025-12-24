@@ -1,0 +1,9 @@
+{
+	"name": "nesedloopadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ead5342b-6d4b-4f2c-9b00-f6a31f8a9102",
+		"tenantId": "02db4df2-57aa-47b7-b588-ac1169b71a48"
+	}
+}
